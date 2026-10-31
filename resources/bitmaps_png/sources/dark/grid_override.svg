@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24">
+  <circle cx="4.5" cy="4.5" r="1" fill="#D8D8D8" stroke="none" stroke-width="1.5" /><circle cx="4.5" cy="9.5" r="1" fill="#D8D8D8" stroke="none" stroke-width="1.5" /><circle cx="4.5" cy="14.5" r="1" fill="#D8D8D8" stroke="none" stroke-width="1.5" /><circle cx="9.5" cy="4.5" r="1" fill="#D8D8D8" stroke="none" stroke-width="1.5" /><circle cx="9.5" cy="9.5" r="1" fill="#D8D8D8" stroke="none" stroke-width="1.5" /><circle cx="9.5" cy="14.5" r="1" fill="#D8D8D8" stroke="none" stroke-width="1.5" /><circle cx="14.5" cy="4.5" r="1" fill="#D8D8D8" stroke="none" stroke-width="1.5" /><circle cx="14.5" cy="9.5" r="1" fill="#D8D8D8" stroke="none" stroke-width="1.5" /><circle cx="14.5" cy="14.5" r="1" fill="#D8D8D8" stroke="none" stroke-width="1.5" />
+  <circle cx="18" cy="18" r="5.5" fill="#2E2E2E" stroke="none" stroke-width="1.5" />
+  <circle cx="18" cy="18" r="4.5" fill="#C99A00" stroke="none" stroke-width="1.5" />
+  <path d="M18 15.5 V18.5" fill="none" stroke="#FFFFFF" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" />
+  <circle cx="18" cy="20.6" r="0.9" fill="#FFFFFF" stroke="none" stroke-width="1.5" />
+</svg>

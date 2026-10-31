@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24">
+  <path d="M13 3 V21" fill="none" stroke="#2E9E44" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+  <path d="M6.07 15.25 L5.41 14.42 L5.05 13.52 L5.03 12.61 L5.34 11.71 L5.96 10.86 L6.87 10.11 L8.04 9.47 L9.41 8.98 L10.93 8.65 L12.53 8.51 L14.16 8.55 L15.74 8.77 L17.20 9.17 L18.49 9.73 L19.55 10.42 L20.35 11.22 L20.83 12.09 L21.00 13.00 L20.83 13.91 L20.35 14.78 L19.55 15.58 L18.49 16.27" fill="none" stroke="#D8D8D8" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" /><path d="M15.74 17.23 L19.64 13.23 L21.28 17.95 Z" fill="#D8D8D8" />
+  <path d="M2.5 2.5 L4.5 5.0 L6.5 2.5 M4.5 5.0 V7.5" fill="none" stroke="#2E9E44" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round" />
+</svg>

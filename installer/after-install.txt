@@ -1,0 +1,12 @@
+Altium Skin for KiCad is installed.
+
+Settings: kept in %APPDATA%\kicad-altium, separate from a normal KiCad install. The Altium
+hotkeys and colour theme are set up the first time you start the program.
+
+Libraries: if you installed the standard libraries they are ready to use. Otherwise add yours
+under Preferences > Manage Symbol Libraries / Manage Footprint Libraries.
+
+3D models are not included (over 3 GB). To see them, install KiCad 10 and set
+Preferences > Configure Paths > KICAD10_3DMODEL_DIR to its share\kicad\3dmodels folder.
+
+Uninstalling leaves your settings and projects untouched.

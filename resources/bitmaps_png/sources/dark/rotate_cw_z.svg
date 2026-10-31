@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24">
+  <circle cx="13" cy="13" r="2.2" fill="#2B4FD9" stroke="none" stroke-width="1.5" />
+  <path d="M14.30 5.61 L15.82 6.05 L17.21 6.79 L18.42 7.81 L19.38 9.06 L20.07 10.49 L20.44 12.02 L20.48 13.60 L20.18 15.15 L19.58 16.61 L18.67 17.90 L17.52 18.98 L16.17 19.80 L14.68 20.31 L13.11 20.50 L11.54 20.36 L10.03 19.89 L8.65 19.11 L7.47 18.07 L6.53 16.80 L5.88 15.36 L5.54 13.82 L5.54 12.24" fill="none" stroke="#D8D8D8" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" /><path d="M6.50 9.25 L7.35 14.78 L2.59 13.24 Z" fill="#D8D8D8" />
+  <path d="M2.5 2.5 H6.5 L2.5 7.5 H6.5" fill="none" stroke="#2B4FD9" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round" />
+</svg>

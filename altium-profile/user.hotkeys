@@ -1,0 +1,130 @@
+common.Control.cursorDblClick		
+common.Control.editGrids	Ctrl+G	
+common.Control.gridFast1		
+common.Control.gridFast2		
+common.Control.gridFastCycle		
+common.Control.gridNext	G	
+common.Control.gridPrev	Shift+G	
+common.Control.highContrastMode		
+common.Control.highContrastModeCycle	Shift+S	
+common.Control.magneticSnapToggle	Shift+E	
+common.Control.resetLocalCoords		
+common.Control.show3DViewer		
+common.Control.showDatasheet		
+common.Control.showProjectManager	Ctrl+Alt+O	
+common.Control.showProperties	F11	
+common.Control.toggleUnits	Q	Ctrl+U
+common.Control.zoomCenter	Home	F4
+common.Control.zoomFitObjects		
+common.Control.zoomFitScreen	Ctrl+PgDn	
+common.Control.zoomIn	PgUp	Ctrl++
+common.Control.zoomOut	PgDn	Ctrl+-
+common.Control.zoomRedraw	End	
+common.Interactive.duplicate	Ctrl+R	
+common.Interactive.finish		
+common.Interactive.measureTool	Ctrl+M	
+common.Interactive.pasteSpecial		
+common.Interactive.redo	Ctrl+Y	Ctrl+Shift+Z
+common.Interactive.search		
+eeschema.Align.alignBottom	Ctrl+Shift+B	
+eeschema.Align.alignLeft	Ctrl+Shift+L	
+eeschema.Align.alignRight	Ctrl+Shift+R	
+eeschema.Align.alignTop	Ctrl+Shift+T	
+eeschema.EditorControl.clearHighlight	Shift+C	~
+eeschema.EditorControl.lineModeNext		
+eeschema.EditorControl.nextNetItem		
+eeschema.InteractiveDrawing.drawSheet		
+eeschema.InteractiveDrawing.placeBusWireEntry		
+eeschema.InteractiveDrawing.placeHierarchicalLabel		
+eeschema.InteractiveDrawing.placeJunction		
+eeschema.InteractiveDrawing.placeNoConnect		
+eeschema.InteractiveDrawing.placePowerSymbol		
+eeschema.InteractiveDrawing.placeSymbol		
+eeschema.InteractiveDrawingLineWireBus.drawWires	Ctrl+W	
+eeschema.InteractiveDrawingLineWireBus.unfoldBus		
+eeschema.InteractiveEdit.editFootprint		
+eeschema.InteractiveEdit.editReference		
+eeschema.InteractiveEdit.editValue		
+eeschema.InteractiveEdit.mirrorH	X	
+eeschema.InteractiveEdit.mirrorV	Y	
+eeschema.InteractiveEdit.properties	Tab	
+eeschema.InteractiveEdit.rotateCCW	Space	
+eeschema.InteractiveEdit.rotateCW	Shift+Space	
+eeschema.InteractiveMove.drag		
+eeschema.InteractiveMove.move		
+eeschema.InteractiveSelection.SelectConnection		
+eeschema.InteractiveSelection.SelectNode		
+eeschema.NavigateTool.next		
+eeschema.NavigateTool.previous		
+eeschema.SymbolDrawing.placeSymbolPin		
+pcbnew.ActiveBar.alignToGrid	Ctrl+Shift+D	
+pcbnew.AlignAndDistribute.alignBottom	Ctrl+Shift+B	
+pcbnew.AlignAndDistribute.alignLeft	Ctrl+Shift+L	
+pcbnew.AlignAndDistribute.alignRight	Ctrl+Shift+R	
+pcbnew.AlignAndDistribute.alignTop	Ctrl+Shift+T	
+pcbnew.AlignAndDistribute.distributeHorizontallyCenters	Ctrl+Shift+H	
+pcbnew.AlignAndDistribute.distributeVerticallyCenters	Ctrl+Shift+V	
+pcbnew.Control.browseObjects	Shift+X	
+pcbnew.Control.browseViolations	Shift+V	
+pcbnew.Control.closeDocument	Ctrl+F4	
+pcbnew.Control.crossSelectMode	Ctrl+Shift+X	
+pcbnew.Control.flipBoard	Ctrl+F	
+pcbnew.Control.fullScreen	Alt+F5	
+pcbnew.Control.layerAlphaDec	[	
+pcbnew.Control.layerAlphaInc	]	
+pcbnew.Control.layerBottom		
+pcbnew.Control.layerNext	*	+
+pcbnew.Control.layerPairPresetCycle		
+pcbnew.Control.layerPrev	-	
+pcbnew.Control.layerToggle		
+pcbnew.Control.layerTop		
+pcbnew.Control.layoutMode2D	2	
+pcbnew.Control.layoutMode3D	3	
+pcbnew.Control.selectBoard	Ctrl+B	
+pcbnew.Control.selectConnectedCopper	Ctrl+H	
+pcbnew.Control.showRatsnest	N	
+pcbnew.Control.tileWindows	Shift+F4	
+pcbnew.Control.toggleInsightLens	Shift+M	
+pcbnew.Control.toggleInsightLensPin	Ctrl+Shift+M	
+pcbnew.EditorControl.clearHighlight	Shift+C	~
+pcbnew.EditorControl.lineModeNext		
+pcbnew.EditorControl.placeFootprint		
+pcbnew.EditorControl.toggleLock		
+pcbnew.EditorControl.trackWidthDec		
+pcbnew.EditorControl.trackWidthInc		
+pcbnew.InteractiveDrawing.arcPosture	Space	/
+pcbnew.InteractiveDrawing.bezier		
+pcbnew.InteractiveDrawing.line		
+pcbnew.InteractiveDrawing.orthogonalDimension		
+pcbnew.InteractiveDrawing.text		
+pcbnew.InteractiveDrawing.via		
+pcbnew.InteractiveDrawing.zoneCutout		
+pcbnew.InteractiveEdit.FindMove		
+pcbnew.InteractiveEdit.duplicateIncrementPads		
+pcbnew.InteractiveEdit.flip	L	
+pcbnew.InteractiveEdit.moveExact		
+pcbnew.InteractiveEdit.packAndMoveFootprints		
+pcbnew.InteractiveEdit.properties	Tab	
+pcbnew.InteractiveEdit.rotateCcw	Space	
+pcbnew.InteractiveEdit.rotateCw	Shift+Space	
+pcbnew.InteractiveEdit.skip		
+pcbnew.InteractiveMove.move		
+pcbnew.InteractiveMove.moveIndividually		
+pcbnew.InteractiveRouter.Autoroute	Shift+A	
+pcbnew.InteractiveRouter.CustomTrackViaSize		
+pcbnew.InteractiveRouter.CycleRouterMode	Shift+R	
+pcbnew.InteractiveRouter.CycleTrackWidth	3	
+pcbnew.InteractiveRouter.CycleViaSize	4	
+pcbnew.InteractiveRouter.Drag45Degree		
+pcbnew.InteractiveRouter.DragFreeAngle		
+pcbnew.InteractiveRouter.PlaceVia		
+pcbnew.InteractiveRouter.PlaceViaKeepLayer	2	
+pcbnew.InteractiveRouter.RouteSelected		
+pcbnew.InteractiveRouter.RouteSelectedFromEnd		
+pcbnew.InteractiveRouter.SingleTrack	Ctrl+W	
+pcbnew.InteractiveRouter.SwitchPosture	Space	/
+pcbnew.InteractiveRouter.SwitchRoundingToNext	Shift+Space	Ctrl+/
+pcbnew.InteractiveRouter.TrackWidthMenu	Shift+W	
+pcbnew.InteractiveRouter.ViaSizeMenu	Shift+V	
+pcbnew.InteractiveSelection.SelectConnection		
+pcbnew.ZoneFiller.zoneUnfillAll		

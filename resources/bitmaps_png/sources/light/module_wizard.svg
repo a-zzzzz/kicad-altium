@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24">
+  <rect x="3.5" y="3" width="8" height="12" fill="none" stroke="#C99A00" stroke-width="1.2" /><circle cx="6.1" cy="5" r="0.7" fill="#C99A00" stroke="none" stroke-width="1.5" /><rect x="2.0" y="4.0" width="3" height="2" fill="#D92B2B" stroke="none" stroke-width="1.5" /><rect x="2.0" y="8.0" width="3" height="2" fill="#D92B2B" stroke="none" stroke-width="1.5" /><rect x="2.0" y="12.0" width="3" height="2" fill="#D92B2B" stroke="none" stroke-width="1.5" /><rect x="10.0" y="4.0" width="3" height="2" fill="#D92B2B" stroke="none" stroke-width="1.5" /><rect x="10.0" y="8.0" width="3" height="2" fill="#D92B2B" stroke="none" stroke-width="1.5" /><rect x="10.0" y="12.0" width="3" height="2" fill="#D92B2B" stroke="none" stroke-width="1.5" />
+  <path d="M9 21.5 L16 14.5" fill="none" stroke="#3C3C3C" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" />
+  <path d="M18.00 7.50 L19.19 10.36 L22.28 10.61 L19.93 12.63 L20.65 15.64 L18.00 14.03 L15.35 15.64 L16.07 12.63 L13.72 10.61 L16.81 10.36 Z" fill="#FFD84D" stroke="#9C7A1E" stroke-width="0.8" stroke-linecap="round" stroke-linejoin="round" />
+</svg>
